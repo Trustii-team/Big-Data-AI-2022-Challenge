@@ -1,4 +1,4 @@
-![trustii logo](/images/HeroImage.png)
+![trustii logo](/HeroImage.png)
 
 Vous trouverez sur ce repo les notebooks des meilleurs candidats du data challenge Big Data AI Paris 2022.
 
@@ -27,4 +27,13 @@ La meilleure équipe a construit un modéle qui a eu un score de 0.8599 "R2" (ca
 
 le leaderboard complet est disponible sur https://app.trustii.io (section data scientist)
 
-![illustration](/images/waicf-data-challenge-result.png)
+# Jupterhub Trustii.io :
+Trustii.io a fournit gratuitement à chaque concurrent un environnement Jupyter Notebook géré, doté de 4 vCPU, 16 Go de RAM et de 20 Go de stockage.
+
+# AutoML de MyDataModels :
+Dans le cadre de ce challenge MyDataModels a fournit un modèle autoML comme baseline, ainsi que le pipeline de celui ci dans l'environnement Jupyterhub.
+
+
+# Évaluation :
+L'évaluation des modèles a été basée sur le classement dans le leaderboard privé en utilisant le score R2 et la qualité du code source de du modèle (vérifié par l'équipe Trustii.io).
+
